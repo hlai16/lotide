@@ -1,5 +1,4 @@
 
-
 const countLetters = function(letters) {
   const results = {};
   for (const letter of letters) {
