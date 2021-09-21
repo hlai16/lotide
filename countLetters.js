@@ -11,7 +11,5 @@ const countLetters = function(letters) {
   return results;
 };
 
+module.exports = countLetters;
 
-console.log(countLetters('lighthouse'));
-
-console.log(countLetters('lol'));
